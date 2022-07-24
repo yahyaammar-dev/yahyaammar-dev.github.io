@@ -1,0 +1,13 @@
+main color      primary blue 
+		grey as secondary
+
+
+main emotion	perfection
+
+
+target audience	interviewees
+
+
+font	nunito
+
+ 
